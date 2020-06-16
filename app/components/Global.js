@@ -14,7 +14,7 @@ class Global extends Component {
             />
             /*
             <InputGroup.Addon>
-              <Glyphicon glyph="search"></Glyphicon>
+              <Glyphicon glyph="search"></Glyphicon> tregdfvbsdfbsdfgb
             </InputGroup.Addon>
             */
 
